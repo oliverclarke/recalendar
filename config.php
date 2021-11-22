@@ -72,7 +72,7 @@ class Config {
 			// To check which locale your PHP version supports run:
 			// `locale -a` in your terminal (at least on Linux and MacOS)
 			// Note that you will still need to override some configuration variables, like `WEEK_NAME`, etc.
-			self::LOCALE => 'en_US.UTF-8',
+			self::LOCALE => 'en_GB.UTF-8',
 			// The month from which to start the "year"
 			// Useful if you want to track your college year, for example.
 			// You could then set this to 10 (October) and the calendar
